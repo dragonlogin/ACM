@@ -306,7 +306,7 @@ using namespace std;
 //1 ac
 #include <bits/stdc++.h>
 using namespace std;
-const int N = 10010;
+const int N = 5000;
 char a[N][N];
 int dir[] = {-1, 0, 1, 0, -1};
 
